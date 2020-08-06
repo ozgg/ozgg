@@ -1,4 +1,8 @@
-### Hi there 👋
+### Maxim J. Khan-Magomedov
+
+Full-stack developer. Key skills: RoR, postgresql, HTML, CSS, JS, JSONAPI, PHP, MySQL.
+
+See also [@biovision](https://github.com/Biovision) for CMS and Comunit network.
 
 <!--
 **ozgg/ozgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
